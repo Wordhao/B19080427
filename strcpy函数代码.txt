@@ -3,6 +3,7 @@ char * strcpy(char *dst,const char *src)   //[1]
     assert(dst != NULL && src != NULL);    //[2]
 
     char *ret = dst;  //[3]
+    //
 
     while ((*dst++=*src++)!='\0'); //[4]
 
