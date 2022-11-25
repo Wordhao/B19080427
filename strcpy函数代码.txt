@@ -5,7 +5,7 @@ char * strcpy(char *dst,const char *src)   //[1]
     char *ret = dst;  //[3]
     //
 
-    while ((*dst++=*src++)!='\0'); //[4]
+    while ((*dst++=*src++)!='\0'); //
 
 
     return ret;
