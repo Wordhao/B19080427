@@ -6,6 +6,7 @@ char * strcpy(char *dst,const char *src)   //[1]
 
     while ((*dst++=*src++)!='\0'); //[4]
 
+
     return ret;
 }
     
