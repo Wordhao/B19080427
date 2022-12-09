@@ -1,0 +1,2 @@
+D:\githubWorkspace\B19080427\StrStaticLib\x64\Debug\StrStaticLib.pdb
+D:\githubWorkspace\B19080427\StrStaticLib\StrStaticLib\x64\Debug\StrStaticLib.pdb

@@ -1,1 +1,6 @@
-﻿
+﻿  StrFuncsExec3.cpp
+  StrFuncsExec3.vcxproj -> D:\githubWorkspace\B19080427\StrFuncsExec3\x64\Debug\StrFuncsExec3.exe
+  找不到文件 - StrDll.dll
+  复制了 0 个文件
+D:\vs2019\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets(149,5): error MSB3073: 命令“xcopy /y /d "..\..\StrDll\x64\Debug\StrDll.dll" "D:\githubWorkspace\B19080427\StrFuncsExec3\x64\Debug\"
+D:\vs2019\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets(149,5): error MSB3073: :VCEnd”已退出，代码为 4。
